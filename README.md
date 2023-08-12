@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋, im Ella!
+- 🔭 I’m currently working on Netease.
+- 🌱 I’m currently learning Everything I like.
+
+![Visitor Count](https://profile-counter.glitch.me/isellaxu/count.svg)
+
+</n>
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=isellaxu&theme=dracula)
+
+
 
 <!--
 **isellaxu/isellaxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
