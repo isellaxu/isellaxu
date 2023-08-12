@@ -4,8 +4,6 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/isellaxu/count.svg)
 
-</n>
-
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=isellaxu&theme=dracula)
 
 
